@@ -2,14 +2,25 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+
+
+        static int Subtraction(int a, int b)
         {
-           
+
+            return a - b; 
         }
+        
+        
+
+           
+        
 
         static int Multiply(int a, int b)
         {
             return a * b;
+
+            
+
         }
     }
 }
